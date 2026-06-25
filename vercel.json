@@ -1,0 +1,7 @@
+{
+  "functions": {
+    "api/wecom.js": {
+      "maxDuration": 15
+    }
+  }
+}
